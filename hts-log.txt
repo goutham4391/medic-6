@@ -1,0 +1,24 @@
+HTTrack3.49-2 launched on Tue, 27 Sep 2022 15:38:46 at https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/index.html -O "/home/kumartej/websites/Medico6" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:38:49	Warning: 	File not parsed, looks like binary: https://demo.w3layouts.com/robots.txt
+15:39:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): m.servedby-buysellads.com/monetization.js
+15:40:34	Warning: 	HTML file (19542 bytes) retransferred due to lack of cache: https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/single.html
+15:40:42	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/images/left.png (from https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/style.css)
+15:40:42	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/images/right.png (from https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/style.css)
+15:40:42	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/images/banner.jpg (from https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/style.css)
+15:40:42	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/images/arrow.png (from https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/style.css)
+15:40:42	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/ui-bg_glass_65_ffffff_1x400.png (from https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/jquery-ui.css)
+15:40:42	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/ui-bg_glass_95_fef1ec_1x400.png (from https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/jquery-ui.css)
+15:40:42	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/ui-bg_flat_0_aaaaaa_40x100.png (from https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/jquery-ui.css)
+15:40:42	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/images/pagnate.png (from https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/owl.carousel.css)
+15:40:42	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/AjaxLoader.gif (from https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/owl.carousel.css)
+15:40:42	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/grabbing.png (from https://demo.w3layouts.com/demos_new/20-03-2017/therapeutic-demo_Free/990954582/web/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 56 seconds : 91 links scanned, 81 files written (4178045 bytes overall) [2455164 bytes received at 21165 bytes/sec], 2626550 bytes transferred using HTTP compression in 49 files, ratio 31%, 3.3 requests per connection
+(10 errors, 3 warnings, 0 messages)
